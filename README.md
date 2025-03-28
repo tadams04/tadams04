@@ -15,7 +15,7 @@ I'm a Computer Science student at the **University of Liverpool**, currently div
 ---
 
 ### 🌱 Currently Building
-Working on a **mobile tracker app** using **React Native** + **Expo** — focused on improving my cross-platform development skills and mobile UI design.
+Working on a **mobile tracker app** using **React Native** + **Expo** - focused on improving my cross-platform development skills and mobile UI design.
 
 ---
 

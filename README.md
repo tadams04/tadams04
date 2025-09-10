@@ -42,6 +42,7 @@ I enjoy taking projects from **concept → prototype → production**, whether t
 ## Connect with Me  
 - [LinkedIn](https://linkedin.com/in/tom-04-adams)  
 - [GitHub](https://github.com/tadams04)  
-- [Email](mailto:tomsadams@gmail.com) - tomsadams@gmail.com
+- [tomsadams@gmail.com](mailto:tomsadams@gmail.com):
+
 
 ---

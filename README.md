@@ -16,17 +16,20 @@ I enjoy taking projects from **concept → prototype → production**, whether t
 
 ## Featured Projects  
 
-- **AI Lecture Note Generator (FYP)**  
-  Application combining **speech recognition + LLMs** to generate structured, timestamped lecture notes with export functionality.  
-
-- **OnTrack Mobile App** – [Video Demo](https://www.youtube.com/watch?v=yfPmWbWaqW0)  
+- **OnTrack Mobile App** – [Video Demo](#)  
   Cross-platform **habit and schedule tracker** built with React Native and Supabase backup/restore, developed in a 5-person team.  
+
+- **YourPDS Shopify Rebrand**  
+  Led a complete **store redesign and relaunch**, including theme development and automated trade-in logic.  
 
 - **Pacman AI Agent (Python)**  
   Utility-based state machine agent for Pacman, applying decision-making and pathfinding techniques.  
 
-- **YourPDS Shopify Rebrand**  
-  Led a complete **store redesign and relaunch**, including theme development and automated trade-in logic.  
+- **Swift Quiz Game – The Chase**  
+  iOS quiz app developed in Swift with **timed rounds, scoring logic, and dynamic question loading**.  
+
+- **Sail – Unity Physics Game**  
+  Physics-based boat simulation built in Unity, with **realistic wave mechanics and responsive controls**.  
 
 ---
 

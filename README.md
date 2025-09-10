@@ -31,17 +31,17 @@ I enjoy taking projects from **concept → prototype → production**, whether t
 ---
 
 ## Currently Exploring  
+- **AI Lecture Note Generator (Final Year Project)**  
+  Recently approved project combining **speech recognition + LLMs** to generate structured, timestamped lecture notes with export functionality.  
+
 - LLM-powered applications for productivity and learning  
 - Cross-platform mobile UI/UX design with React Native and Expo  
 - Scaling e-commerce platforms and customer-focused systems  
-
 ---
 
 ## Connect with Me  
 - [LinkedIn](https://linkedin.com/in/tom-04-adams)  
 - [GitHub](https://github.com/tadams04)  
-- [Email](mailto:tomsadams@gmail.com)  
+- [Email](mailto:tomsadams@gmail.com) - tomsadams@gmail.com
 
 ---
-
-*"Always curious, always building — exploring how AI and software can create smarter, more accessible digital tools."*  

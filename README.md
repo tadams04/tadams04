@@ -1,31 +1,47 @@
-### Hi, I'm Tom 👋
+# Hi, I’m Tom  
 
-I'm a Computer Science student at the **University of Liverpool**, currently diving deeper into mobile development and building projects that blend creativity with code. I work with **Java**, **Swift**, and **Python**, and I’m currently exploring **React Native** and **Expo**.
+I’m a **Computer Science student at the University of Liverpool** (final year, specialising in **Artificial Intelligence**), passionate about building software that blends **AI, mobile development, and real-world problem solving**.  
 
----
-
-### 🚀 Projects & Highlights
-
-- 🧠 **AI PacMan (Python)**  
-  A simple PacMan clone featuring a **finite state machine (FSM)** and **utility-based AI** to drive nuanced pacman evasion and decision-making behaviour.
-
-- 📱 **TheChase (Swift)**  
-  A quiz app based on the UK game show *The Chase*, developed as part of a university project.
+I enjoy taking projects from **concept → prototype → production**, whether that’s apps, games, or AI-powered tools. My work spans from **cross-platform mobile apps** to **intelligent agents** and **digital commerce systems**.  
 
 ---
 
-### 🌱 Currently Building
-Working on a **mobile tracker app** using **React Native** + **Expo** - focused on improving my cross-platform development skills and mobile UI design.
+## Tech Stack  
+- **Languages:** Python, JavaScript/TypeScript, Swift, SQL  
+- **Frameworks & Tools:** React, React Native, Node.js, Expo, Unity  
+- **Databases & Cloud:** SQLite, Supabase  
+- **AI/ML:** LLM integration, state-based agents, applied coursework in AI  
 
 ---
 
-### 💡 Side Projects
-I created **[VaultInc](https://www.tiktok.com/@vault1nc)** — a social media page focused on **UK Streetwear**.
+## Featured Projects  
 
-I also run a **[Depop shop](https://www.depop.com/vaultinc/)** as a side hustle, combining fashion and e-commerce for fun.
+- **AI Lecture Note Generator (FYP)**  
+  Application combining **speech recognition + LLMs** to generate structured, timestamped lecture notes with export functionality.  
+
+- **OnTrack Mobile App** – [Video Demo](#)  
+  Cross-platform **habit and schedule tracker** built with React Native and Supabase backup/restore, developed in a 5-person team.  
+
+- **Pacman AI Agent (Python)**  
+  Utility-based state machine agent for Pacman, applying decision-making and pathfinding techniques.  
+
+- **YourPDS Shopify Rebrand**  
+  Led a complete **store redesign and relaunch**, including theme development and automated trade-in logic.  
 
 ---
 
-### 📫 Get in Touch
-Feel free to reach out for collaborations, uni-related chats, or project ideas:  
-📧 **tomsadams@gmail.com**
+## Currently Exploring  
+- LLM-powered applications for productivity and learning  
+- Cross-platform mobile UI/UX design with React Native and Expo  
+- Scaling e-commerce platforms and customer-focused systems  
+
+---
+
+## Connect with Me  
+- [LinkedIn](https://linkedin.com/in/tom-04-adams)  
+- [GitHub](https://github.com/tadams04)  
+- [Email](mailto:tomsadams@gmail.com)  
+
+---
+
+*"Always curious, always building — exploring how AI and software can create smarter, more accessible digital tools."*  

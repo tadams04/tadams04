@@ -19,7 +19,7 @@ I enjoy taking projects from **concept → prototype → production**, whether t
 - **AI Lecture Note Generator (FYP)**  
   Application combining **speech recognition + LLMs** to generate structured, timestamped lecture notes with export functionality.  
 
-- **OnTrack Mobile App** – [Video Demo](#)  
+- **OnTrack Mobile App** – [Video Demo](https://www.youtube.com/watch?v=yfPmWbWaqW0)  
   Cross-platform **habit and schedule tracker** built with React Native and Supabase backup/restore, developed in a 5-person team.  
 
 - **Pacman AI Agent (Python)**  

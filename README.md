@@ -16,7 +16,7 @@ I enjoy taking projects from **concept → prototype → production**, whether t
 
 ## Featured Projects  
 
-- **OnTrack Mobile App** – [Video Demo](#)  
+- **OnTrack Mobile App** – [Video Demo](https://youtu.be/yfPmWbWaqW0)  
   Cross-platform **habit and schedule tracker** built with React Native and Supabase backup/restore, developed in a 5-person team.  
 
 - **YourPDS Shopify Rebrand**  
@@ -28,7 +28,7 @@ I enjoy taking projects from **concept → prototype → production**, whether t
 - **Swift Quiz Game – The Chase**  
   iOS quiz app developed in Swift with **timed rounds, scoring logic, and dynamic question loading**.  
 
-- **Sail – Unity Physics Game**  
+- **Sail – Unity Physics Game** - [Sail Video Demo](https://youtu.be/-gp9-_HT0A8)
   Physics-based boat simulation built in Unity, with **realistic wave mechanics and responsive controls**.  
 
 ---

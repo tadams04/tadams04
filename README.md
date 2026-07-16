@@ -30,7 +30,7 @@ A production full-stack booking platform developed for a Brighton paint-splatter
 
 **Built with:** Next.js, TypeScript and modern web technologies
 
-[Visit Seaside Spaltter!](https://seasidesplatter.co.uk)
+[Visit Seaside Splatter!](https://seasidesplatter.co.uk)
 
 ### [OnTrack: Mobile Productivity App](https://youtu.be/yfPmWbWaqW0)
 

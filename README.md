@@ -1,51 +1,53 @@
-# Hi, I’m Tom  
+# Hi, I’m Tom 
 
-I’m a **Computer Science student at the University of Liverpool** (final year, specialising in **Artificial Intelligence**), passionate about building software that blends **AI, mobile development, and real-world problem solving**.  
+I’m a **First-Class Computer Science graduate**, specialising in **Artificial Intelligence**, and an incoming **Graduate Software Developer at Auto Trader**.
 
-I enjoy taking projects from **concept → prototype → production**, whether that’s apps, games, or AI-powered tools. My work spans from **cross-platform mobile apps** to **intelligent agents** and **digital commerce systems**.  
+I enjoy building reliable, user-focused software and taking projects from **initial idea through to production**. My experience includes full-stack web development, AI-powered applications, mobile development and e-commerce platforms.
 
----
+## Tech Stack
 
-## Tech Stack  
-- **Languages:** Python, JavaScript/TypeScript, Swift, SQL  
-- **Frameworks & Tools:** React, React Native, Node.js, Expo, Unity  
-- **Databases & Cloud:** SQLite, Supabase  
-- **AI/ML:** LLM integration, state-based agents, applied coursework in AI  
+- **Languages:** Python, TypeScript, JavaScript, Swift, SQL
+- **Frontend:** React, Next.js, React Native, Vite, Tailwind CSS
+- **Backend:** FastAPI, Node.js, Pydantic
+- **Data and Infrastructure:** PostgreSQL, Supabase, Tailscale
+- **AI:** Large language models, speech recognition, Ollama, faster-whisper
 
----
+## Featured Projects
 
-## Featured Projects  
+### [Lectern — AI Lecture Note Generator](https://github.com/tadams04/lectern)
 
-- **OnTrack Mobile App** – [Video Demo](https://youtu.be/yfPmWbWaqW0)  
-  Cross-platform **habit and schedule tracker** built with React Native and Supabase backup/restore, developed in a 5-person team.  
+A privacy-first application that converts lecture audio into structured, timestamped notes using locally hosted speech recognition and language models.
 
-- **YourPDS Shopify Rebrand**  
-  Led a complete **store redesign and relaunch**, including theme development and automated trade-in logic.  
+Lectern explicitly distinguishes between transcript-derived information and unverified AI-added content, helping users understand where generated information came from.
 
-- **Pacman AI Agent (Python)**  
-  Utility-based state machine agent for Pacman, applying decision-making and pathfinding techniques.  
+**Built with:** React, TypeScript, Python, FastAPI, faster-whisper, Ollama, Qwen and Supabase
 
-- **Swift Quiz Game – The Chase**  
-  iOS quiz app developed in Swift with **timed rounds, scoring logic, and dynamic question loading**.  
+[Watch the project presentation](https://youtu.be/GiA7C5voSe8)
 
-- **Sail – Unity Physics Game** - [Sail Video Demo](https://youtu.be/-gp9-_HT0A8)
-  Physics-based boat simulation built in Unity, with **realistic wave mechanics and responsive controls**.  
+### Seaside Splatter — Booking Platform
 
----
+A production full-stack booking platform developed for a Brighton paint-splatter studio, supporting bookings, payments and gift vouchers.
 
-## Currently Exploring  
-- **AI Lecture Note Generator (Final Year Project)**  
-  Recently approved project combining **speech recognition + LLMs** to generate structured, timestamped lecture notes with export functionality.  
+**Built with:** Next.js, TypeScript and modern web technologies
 
-- LLM-powered applications for productivity and learning  
-- Cross-platform mobile UI/UX design with React Native and Expo  
-- Scaling e-commerce platforms and customer-focused systems  
----
+### [OnTrack — Mobile Productivity App](https://youtu.be/yfPmWbWaqW0)
 
-## Connect with Me  
-- [LinkedIn](https://linkedin.com/in/tom-04-adams)  
-- [GitHub](https://github.com/tadams04)  
-- [tomsadams@gmail.com](mailto:tomsadams@gmail.com):
+A cross-platform habit and schedule-tracking application developed in a five-person team, featuring account management and Supabase backup and restoration.
 
+**Built with:** React Native, Expo and Supabase
 
----
+### YourPDS — E-commerce Platform
+
+Led the technical delivery of a Shopify store redesign and relaunch, including theme development, customer-facing improvements and automated trade-in functionality.
+
+## Current Focus
+
+- Building production-quality full-stack applications
+- Developing trustworthy and explainable AI-powered systems
+- Expanding my software engineering experience ahead of joining Auto Trader
+
+## Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/tom-04-adams)
+- [GitHub](https://github.com/tadams04)
+- [Email](mailto:tomsadams@gmail.com)
